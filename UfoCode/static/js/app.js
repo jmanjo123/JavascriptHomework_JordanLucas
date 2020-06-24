@@ -103,6 +103,3 @@ function filterShape(table){
     if ( text == "") return table; 
     else return table.shape == text;
 }
-
-
-
